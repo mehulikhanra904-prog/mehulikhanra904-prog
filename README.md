@@ -1,7 +1,6 @@
-Here is the **complete futuristic, animated GitHub Profile README.md**. Copy everything inside the box and paste it into your profile repository's `README.md`.
 
-```markdown
-<!-- ===================== HEADER ===================== -->
+
+``<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
@@ -19,6 +18,41 @@ Here is the **complete futuristic, animated GitHub Profile README.md**. Copy eve
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👩‍💻 About Me
+
+```python
+class MehuliKhanra:
+    def __init__(self):
+        self.name = "Mehuli Khanra"
+        self.role = "Aspiring Agentic AI / ML Engineer"
+        self.education = "B.Tech CSE @ Narula Institute of Technology"
+        self.location = "India 🇮🇳"
+
+        self.currently_learning = [
+            "Python",
+            "Machine Learning",
+            "Generative AI",
+            "Agentic AI",
+            "Data Structures & Algorithms",
+            "Full-Stack Development"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Intelligent Agents",
+            "Building AI Applications",
+            "Open Source"
+        ]
+
+        self.mindset = "Learn → Build → Improve → Repeat"
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile! 🚀")
+
+me = MehuliKhanra()
+me.say_hi()
 <!-- ===================== ABOUT ME ===================== -->
 
 ## 👩‍💻 About Me
