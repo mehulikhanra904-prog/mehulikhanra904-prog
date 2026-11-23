@@ -21,13 +21,31 @@ class MehuliKhanra:
 - 🌍 Interested in open-source collaboration and meaningful products.
 
 ---
-<h2 align="center">◈ TECH ARSENAL</h2>
+<h2 align="center">◈ TECH STACK & TOOLS</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,vite,nodejs,express,fastapi,sklearn,mongodb,mysql,git,github,vscode,vercel&perline=9&theme=dark"/>
+<h3>💻 Programming Languages & MERN Stack</h3>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,fastapi&perline=6&theme=dark"/>
+<p><strong>MERN:</strong> MongoDB • Express.js • React.js • Node.js</p>
+
+<h3>🐍 Python & Libraries</h3>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyMuPDF-PDF%20Processing-4B6C8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
+<h3>🧰 Developer Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel&perline=5&theme=dark"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-GenAI%20%7C%20RAG%20%7C%20Agents-6C3BFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-App%20Deployment-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-API%20Testing%20%26%20Integration-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-Integration-6C3BFF?style=flat-square"/>
+
+<h3>📚 Currently Learning</h3>
+<img src="https://img.shields.io/badge/Machine%20Learning-Currently%20Learning-6C3BFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Currently%20Learning-0891B2?style=for-the-badge"/>
 </div>
 
 ---
