@@ -64,7 +64,7 @@ class MehuliKhanra:
 ---
 <h2 align="center">◈ GITHUB SIGNALS</h2>
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehulikhanra904-prog&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00E5FF&icon_color=8B5CF6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehulikhanra904-prog&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00E5FF&icon_color=8B5CF6"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulikhanra904-prog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00E5FF"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=mehulikhanra904-prog&theme=tokyonight&hide_border=true&background=080B16&ring=8B5CF6&fire=00E5FF&currStreakLabel=00E5FF"/>
