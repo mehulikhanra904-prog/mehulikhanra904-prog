@@ -25,7 +25,7 @@ class MehuliKhanra:
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,vite,nodejs,express,fastapi,sklearn,mongodb,mysql,git,github,vscode,vercel&perline=9&theme=dark"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/ML-Scikit--learn- F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI-GenAI%20%7C%20RAG%20%7C%20Agents-6C3BFF?style=flat-square"/>
 </div>
